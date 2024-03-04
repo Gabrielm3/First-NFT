@@ -1,0 +1,12 @@
+{
+    "nome": "Joker",
+    "description": "Joker é um personagem de filmes e seriados.",
+    "image": "https://ipfs.io/ipfs/QmWTgYYZzGv917JRhs9NKwBJAuY3qzoFZk3GM19NVacokS",
+
+    "atributos": [
+        {
+            "fisico": "forte",
+            "level": 10
+        }
+    ]
+}
